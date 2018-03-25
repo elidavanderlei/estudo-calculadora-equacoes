@@ -22,7 +22,7 @@ int main()
   
   RQ=sqrt(DELTA);
   R1=(B-RQ)/2*A;
-  printf("RAIZ:%d\n",R1);
+  printf("Raiz:%d\n",R1);
 }
 else
 {
